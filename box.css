@@ -1,0 +1,9 @@
+textarea
+{
+	resize: none;
+}
+
+#resultBox2,#resultBox3,#resultBox4
+{
+	height: 8000px;
+}
